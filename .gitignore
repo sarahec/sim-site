@@ -15,3 +15,7 @@ node_modules/
 
 # Jujutsu
 .jj
+
+# Devenv/Direnv
+.devenv
+.direnv
